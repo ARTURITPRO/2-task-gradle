@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f8b7137-10f2-4315-a9c6-a807cac1c707" name="Changes" comment="" />
+    <list default="true" id="1f8b7137-10f2-4315-a9c6-a807cac1c707" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clevertec-plugin-file-image/src/main/java/plugin/DownloadPluginExtension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clevertec-plugin-file-image/src/main/java/plugin/MyPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clevertec-plugin-file-image/src/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/src/main/java/utils/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/src/test/java/utils/StringUtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/multi-project.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/utils/multi-project.utils.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/ru/clevertec/core/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/ru/clevertec/core/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +42,15 @@
           <activation />
         </task>
         <task path="$PROJECT_DIR$/core">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/clevertec-plugin-file-image">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/utils">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
           <activation />
         </task>
         <projects_view>
@@ -48,20 +74,20 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="multi-project" type="f1a62948:ProjectNode" />
-                <item name="core" type="2d1252cf:ModuleNode" />
+                <item name="utils" type="2d1252cf:ModuleNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="multi-project" type="f1a62948:ProjectNode" />
-                <item name="core" type="2d1252cf:ModuleNode" />
+                <item name="utils" type="2d1252cf:ModuleNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="multi-project" type="f1a62948:ProjectNode" />
-                <item name="core" type="2d1252cf:ModuleNode" />
+                <item name="utils" type="2d1252cf:ModuleNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
+                <item name="publishing" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -76,6 +102,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -93,9 +122,10 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/maste/java/Task/utils/mal-clevertec-utils",
+    "last_opened_file_path": "C:/Users/maste/java/Task/2-task-gradle/utils/src",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.36666667",
@@ -104,10 +134,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\maste\java\Task\2-task-gradle" />
-      <recent name="C:\Users\maste\java\Task\2-task-gradle\libs" />
+      <recent name="C:\Users\maste\java\Task\2-task-gradle\utils\src" />
+      <recent name="C:\Users\maste\java\Task\2-task-gradle\utils\src\test" />
+      <recent name="C:\Users\maste\java\Task\2-task-gradle\utils\src\main" />
+      <recent name="C:\Users\maste\java\Task\2-task-gradle\utils" />
+      <recent name="C:\Users\maste\java\Task\2-task-gradle\clevertec-plugin-file-image\src\main\java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maste\java\Task\2-task-gradle\utils" />
+      <recent name="C:\Users\maste\java\Task\2-task-gradle\utils\src" />
       <recent name="C:\Users\maste\java\Task\2-task-gradle\core\src\main" />
       <recent name="C:\Users\maste\java\Task\2-task-gradle\core\src\main\java" />
       <recent name="C:\Users\maste\java\Task\2-task-gradle\libs" />
@@ -143,27 +178,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="2-task-gradle [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="buildDependents" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
     <configuration name="2-task-gradle [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -176,27 +190,6 @@
         <option name="taskNames">
           <list>
             <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="2-task-gradle [classes]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="classes" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -227,26 +220,55 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="multi-project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="2-task-gradle:utils [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/utils" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="multi-project" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="2-task-gradle:utils [publishToMavenLocal]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/utils" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="publishToMavenLocal" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="Gradle.2-task-gradle [build]" />
         <item itemvalue="Gradle.2-task-gradle [clean]" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Gradle.2-task-gradle [classes]" />
-        <item itemvalue="Gradle.2-task-gradle [buildDependents]" />
+        <item itemvalue="Gradle.2-task-gradle:utils [publishToMavenLocal]" />
+        <item itemvalue="Gradle.2-task-gradle:utils [build]" />
       </list>
     </recent_temporary>
   </component>
@@ -263,10 +285,23 @@
       <workItem from="1675772017799" duration="7387000" />
       <workItem from="1675782735189" duration="9268000" />
       <workItem from="1675849134506" duration="3870000" />
+      <workItem from="1676017067170" duration="58000" />
+      <workItem from="1676029026828" duration="4005000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

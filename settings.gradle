@@ -10,7 +10,7 @@
 rootProject.name = 'multi-project'
 include 'app'
 include 'core'
-
-
+include 'clevertec-plugin-file-image'
+include 'utils'
 
 

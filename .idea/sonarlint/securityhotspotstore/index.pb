@@ -1,0 +1,19 @@
+
+X
+(clevertec-plugin-file-image/build.gradle,9\9\994255266ab32ccd7540e2c473911929cf3a9be8
+Y
+)clevertec-plugin-file-image/src/readme.md,b\a\ba177c245249103e5d89fe2fab65e56a57d3c2ce
+9
+	readme.md,2\7\275d783e298228506068436512433d343feb52aa
+n
+>clevertec-plugin-file-image/src/main/java/plugin/MyPlugin.java,3\2\32ba2efba5c114afce5911fbd81e34f9cb974d7c
+_
+/core/src/main/java/ru/clevertec/core/Utils.java,9\8\9802540953af40f8e5ba58b8feec9f7fff3d548e
+A
+core/build.gradle,9\1\918ca359602392354123b7d3b63264baf7ea9dde
+}
+Mclevertec-plugin-file-image/src/main/java/plugin/DownloadPluginExtension.java,5\a\5a14c3286baa4c2931fe09cb7ab121982425e315
+?
+settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
+Z
+*utils/src/main/java/utils/StringUtils.java,d\3\d3aba0d41514b95e465797a69907801a902bf459

@@ -1,7 +1,5 @@
 package ru.clevertec.core;
 
-
-
 import utils.StringUtils;
 
 import java.util.Arrays;

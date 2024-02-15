@@ -2,7 +2,7 @@ package plugin;
 
 public class DownloadPluginExtension {
     private String templateUrl = "https://pngimg.com/uploads/rabbit/rabbit_PNG3792.png";
-    private String targetFile = "I://rabbit.png";
+    private String targetFile = "D://rabbit.png";
 
     public String getTemplateUrl() {
         return templateUrl;
